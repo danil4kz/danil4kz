@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Phyton, FastApi, SQL and many other interesting things!
 - 💞️ I’m open to team projects
 - 📫 How to reach me in Telegramm: @danil4k
-- ⚡ Fun fact: I`m Engineer of Nuclear Power Plants:)
+- ⚡ Fun fact: By the way I`m Engineer of Nuclear Power Plants:)
 
 <!---
 danil4kz/danil4kz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
